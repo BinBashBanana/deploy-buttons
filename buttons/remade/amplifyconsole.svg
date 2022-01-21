@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" viewBox="0 0 210 32" width="210px" height="32px">
+	<g fill="#FFFFFF" style="user-select: none;">
+		<rect fill="#FF9900" x="0" y="0" width="210" height="32" rx="4"></rect>
+		<foreignObject width="210" height="32">
+			<style>span{font: 14px sans-serif; display: inline-block; height: 32px; line-height: 32px; vertical-align: top;}</style>
+			<svg width="24px" height="24px" style="margin: 4px 6px; display: inline-block;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 191"><path d="M55.7091852,158.47619 L127.815882,158.47619 L146.285714,190.984127 L145.765368,190.984127 L0,190.984127 L51.3642878,101.977675 L72.8892597,64.7056839 L91.3696717,96.728228 L55.7091852,158.47619 Z M82.6014712,47.8501573 L100.345402,17.1043291 L200.765899,190.983604 L165.203074,190.983604 L82.6014712,47.8501573 Z M110.221481,0 L145.736961,0 L256,190.984127 L220.439804,190.984127 L110.221481,0 Z"></path>
+			</svg><xhtml:span style="color: #FFFFFF;">Deploy</xhtml:span> <xhtml:span style="color: #D7E7F1;">to Amplify Console</xhtml:span>
+		</foreignObject>
+	</g>
+</svg>

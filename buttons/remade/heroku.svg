@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" viewBox="0 0 156 32" width="156px" height="32px">
+	<g fill="#FFFFFF" style="user-select: none;">
+		<rect fill="#7056BF" x="0" y="0" width="156" height="32" rx="4"></rect>
+		<foreignObject width="156" height="32">
+			<style>span{font: 14px sans-serif; display: inline-block; height: 32px; line-height: 32px; vertical-align: top;}</style>
+			<svg width="24px" height="24px" style="margin: 4px 6px; display: inline-block;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 49"><g fill-rule="evenodd" fill="#FFFFFF"><path d="M11 42l5-5-5-5v10zm19.8714-19.6866c-.985-.9903-2.794-2.1705-5.816-2.1705-3.314 0-6.7258.8565-9.1665 1.6458V8H11v21.063l3.4534-1.5543C14.509 27.4837 20.0847 25 25.0554 25c2.4824 0 3.0318 1.3618 3.0556 2.4954V42H33V27.4286c.003-.311-.0258-3.0023-2.1286-5.1152zM24 16h5.143c2.3257-2.523 3.51-5.2037 3.857-8h-5.143c-.567 2.7902-1.836 5.4615-3.857 8z"/><path d="M4.6118.0957C2.2373.0957.11 2.9344.11 5.32v39.36C.11 47.0656 2.9255 49 5.3 49h34.4c2.3746 0 4.3-1.9344 4.3-4.32V5.32C44 2.9344 41.4268.0957 39.0522.0957H4.6118zM41 44.089C41 45.1423 40.148 46 39.1 46H4.9C3.8526 46 3 45.1424 3 44.089V4.911C3 3.857 3.8526 3 4.9 3h34.2c1.048 0 1.9.857 1.9 1.911v39.178z"/></g>
+			</svg><xhtml:span style="color: #FFFFFF;">Deploy</xhtml:span> <xhtml:span style="color: #D7E7F1;">to Heroku</xhtml:span>
+		</foreignObject>
+	</g>
+</svg>

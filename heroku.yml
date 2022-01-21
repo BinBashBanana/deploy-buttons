@@ -1,0 +1,2 @@
+run:
+  web: bin/boot

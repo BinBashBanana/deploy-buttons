@@ -1,0 +1,8 @@
+{
+    "name": "Deploy Buttons",
+    "description": "Deploy Buttons for GitHub repositories",
+    "repository": "https://github.com/BinBashBanana/deploy-buttons",
+    "logo": "https://github.com/fluidicon.png",
+    "keywords": ["deploy", "deploybutton"],
+    "buildpacks": [{"url": "https://github.com/heroku/heroku-buildpack-static"}]
+}
