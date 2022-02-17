@@ -13,6 +13,7 @@
 <a target="_blank" href="https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy to IBM Cloud" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/ibmcloud.svg"></a>
 <a target="_blank" href="https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy to Amplify Console" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/amplifyconsole.svg"></a>
 <a target="_blank" href="https://deploy.cloud.run/?git_repo=https://github.com/BinBashBanana/deploy-buttons"><img alt="Run on Google Cloud" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/googlecloud.svg"></a>
+<a target="_blank" href="https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/BinBashBanana/deploy-buttons/archive/refs/heads/main.zip"><img alt="Deploy to Oracle Cloud" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/oraclecloud.svg"></a>
 
 ### Markdown
 
@@ -23,6 +24,7 @@
 [![Deploy to IBM Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/ibmcloud.svg)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/BinBashBanana/deploy-buttons)
 [![Deploy to Amplify Console](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/BinBashBanana/deploy-buttons)
 [![Run on Google Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/BinBashBanana/deploy-buttons)
+[![Deploy to Oracle Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/BinBashBanana/deploy-buttons/archive/refs/heads/main.zip)
 
 ## Official
 
@@ -35,6 +37,7 @@
 <a target="_blank" href="https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy to IBM Cloud" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/ibmcloud.svg"></a>
 <a target="_blank" href="https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy to Amplify Console" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/amplifyconsole.svg"></a>
 <a target="_blank" href="https://deploy.cloud.run/?git_repo=https://github.com/BinBashBanana/deploy-buttons"><img alt="Run on Google Cloud" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/googlecloud.svg"></a>
+<a target="_blank" href="https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/BinBashBanana/deploy-buttons/archive/refs/heads/main.zip"><img alt="Deploy to Oracle Cloud" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/oraclecloud.svg"></a>
 
 ### Markdown
 
@@ -45,20 +48,39 @@
 [![Deploy to IBM Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/ibmcloud.svg)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/BinBashBanana/deploy-buttons)
 [![Deploy to Amplify Console](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/BinBashBanana/deploy-buttons)
 [![Run on Google Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/BinBashBanana/deploy-buttons)
+[![Deploy to Oracle Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/BinBashBanana/deploy-buttons/archive/refs/heads/main.zip)
 
 ## Deploy URL Format
 
 #### Heroku
-```https://heroku.com/deploy/?template=https://github.com/{user}/{repository}```
+```
+https://heroku.com/deploy/?template=https://github.com/{user}/{repository}
+```
 #### Replit
-```https://replit.com/github/{user}/{repository}```
+```
+https://replit.com/github/{user}/{repository}
+```
 #### Glitch
-```https://glitch.com/edit/#!/import/github/{user}/{repository}```
+```
+https://glitch.com/edit/#!/import/github/{user}/{repository}
+```
 #### Azure
-```??? / https://deploy.azure.com/?repository=https://github.com/{user}/{repository} (BROKEN)```
+```
+??? / https://deploy.azure.com/?repository=https://github.com/{user}/{repository} (BROKEN)
+```
 #### IBM Cloud / Bluemix
-```https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/{user}/{repository}```
+```
+https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/{user}/{repository}
+```
 #### AWS Amplify Console
-```https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/{user}/{repository}```
+```
+https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/{user}/{repository}
+```
 #### Google Cloud
-```https://deploy.cloud.run/?git_repo=https://github.com/{user}/{repository}```
+```
+https://deploy.cloud.run/?git_repo=https://github.com/{user}/{repository}
+```
+#### Oracle Cloud
+```
+https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/{user}/{repository}/archive/refs/heads/main.zip
+```
