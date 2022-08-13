@@ -15,6 +15,8 @@
 <a target="_blank" href="https://deploy.cloud.run/?git_repo=https://github.com/BinBashBanana/deploy-buttons"><img alt="Run on Google Cloud" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/googlecloud.svg"></a>
 <a target="_blank" href="https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/BinBashBanana/deploy-buttons/archive/refs/heads/main.zip"><img alt="Deploy to Oracle Cloud" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/oraclecloud.svg"></a>
 <a target="_blank" href="https://railway.app/new/template?template=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy on Railway" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/railway.svg"></a>
+<a target="_blank" href="https://vercel.com/new/clone?repository-url=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy to Vercel" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/vercel.svg"></a>
+<a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy to Netlify" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/netlify.svg"></a>
 
 ### Markdown
 
@@ -27,6 +29,8 @@
 [![Run on Google Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/BinBashBanana/deploy-buttons)
 [![Deploy to Oracle Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/BinBashBanana/deploy-buttons/archive/refs/heads/main.zip)
 [![Deploy on Railway](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/BinBashBanana/deploy-buttons)
+[![Deploy to Vercel](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/BinBashBanana/deploy-buttons)
+[![Deploy to Netlify](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/BinBashBanana/deploy-buttons)
 
 ## Official
 
@@ -41,6 +45,8 @@
 <a target="_blank" href="https://deploy.cloud.run/?git_repo=https://github.com/BinBashBanana/deploy-buttons"><img alt="Run on Google Cloud" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/googlecloud.svg"></a>
 <a target="_blank" href="https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/BinBashBanana/deploy-buttons/archive/refs/heads/main.zip"><img alt="Deploy to Oracle Cloud" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/oraclecloud.svg"></a>
 <a target="_blank" href="https://railway.app/new/template?template=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy on Railway" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/railway.svg"></a>
+<a target="_blank" href="https://vercel.com/new/clone?repository-url=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy to Vercel" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/vercel.svg"></a>
+<a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy to Netlify" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/netlify.svg"></a>
 
 ### Markdown
 
@@ -53,6 +59,8 @@
 [![Run on Google Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/BinBashBanana/deploy-buttons)
 [![Deploy to Oracle Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/BinBashBanana/deploy-buttons/archive/refs/heads/main.zip)
 [![Deploy on Railway](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/railway.svg)](https://railway.app/new/template?template=https://github.com/BinBashBanana/deploy-buttons)
+[![Deploy to Vercel](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/BinBashBanana/deploy-buttons)
+[![Deploy to Netlify](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/BinBashBanana/deploy-buttons)
 
 ## Deploy URL Format
 
@@ -92,3 +100,16 @@ https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com
 ```
 https://railway.app/new/template?template=https://github.com/{user}/{repository}
 ```
+#### Vercel
+```
+https://vercel.com/new/clone?repository-url=https://github.com/{user}/{repository}
+```
+#### Netlify
+```
+https://app.netlify.com/start/deploy?repository=https://github.com/{user}/{repository}
+```
+
+## Notes
+
+Use [SvgPathEditor](https://yqnn.github.io/svg-path-editor/) to translate paths  
+Use [$0.getBBox()](https://developer.mozilla.org/en-US/docs/Web/API/SVGGraphicsElement/getBBox) to determine path/group size

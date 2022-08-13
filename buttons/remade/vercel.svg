@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" viewBox="0 0 150 32" width="150px" height="32px">
+	<g fill="#FFFFFF" style="user-select: none;">
+		<rect fill="#000000" x="0" y="0" width="150" height="32" rx="4"></rect>
+		<foreignObject width="150" height="32">
+			<style>span{font: 14px sans-serif; display: inline-block; height: 32px; line-height: 32px; vertical-align: top;}</style>
+			<svg width="24px" height="24px" style="margin: 4px 6px; display: inline-block;" xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 93.9 84"><path fill="#FFFFFF" d="M36.95 0 73.9 64H0L36.95 0"></path>
+			</svg><xhtml:span style="color: #FFFFFF;">Deploy</xhtml:span> <xhtml:span style="color: #D7E7F1;">to Vercel</xhtml:span>
+		</foreignObject>
+	</g>
+</svg>
