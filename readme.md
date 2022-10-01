@@ -17,6 +17,7 @@
 <a target="_blank" href="https://railway.app/new/template?template=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy on Railway" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/railway.svg"></a>
 <a target="_blank" href="https://vercel.com/new/clone?repository-url=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy to Vercel" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/vercel.svg"></a>
 <a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy to Netlify" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/netlify.svg"></a>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/BinBashBanana/deploy-buttons&branch=main&name=deploy-buttons"><img alt="Deploy to Koyeb" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/koyeb.svg"></a>
 
 ### Markdown
 
@@ -31,6 +32,7 @@
 [![Deploy on Railway](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/BinBashBanana/deploy-buttons)
 [![Deploy to Vercel](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/BinBashBanana/deploy-buttons)
 [![Deploy to Netlify](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/BinBashBanana/deploy-buttons)
+[![Deploy to Koyeb](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/BinBashBanana/deploy-buttons&branch=main&name=deploy-buttons)
 
 ## Official
 
@@ -47,6 +49,7 @@
 <a target="_blank" href="https://railway.app/new/template?template=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy on Railway" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/railway.svg"></a>
 <a target="_blank" href="https://vercel.com/new/clone?repository-url=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy to Vercel" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/vercel.svg"></a>
 <a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy to Netlify" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/netlify.svg"></a>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/BinBashBanana/deploy-buttons&branch=main&name=deploy-buttons"><img alt="Deploy to Koyeb" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/koyeb.svg"></a>
 
 ### Markdown
 
@@ -61,6 +64,7 @@
 [![Deploy on Railway](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/railway.svg)](https://railway.app/new/template?template=https://github.com/BinBashBanana/deploy-buttons)
 [![Deploy to Vercel](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/BinBashBanana/deploy-buttons)
 [![Deploy to Netlify](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/BinBashBanana/deploy-buttons)
+[![Deploy to Koyeb](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/BinBashBanana/deploy-buttons&branch=main&name=deploy-buttons)
 
 ## Deploy URL Format
 
@@ -107,6 +111,11 @@ https://vercel.com/new/clone?repository-url=https://github.com/{user}/{repositor
 #### Netlify
 ```
 https://app.netlify.com/start/deploy?repository=https://github.com/{user}/{repository}
+```
+
+#### Koyeb
+```
+https://app.koyeb.com/deploy?type=git&repository=github.com/{user}/{repository}&branch=main&name={repository}
 ```
 
 ## Notes
