@@ -1,4 +1,4 @@
 services:
-    type: web
+  - type: web
     name: deploy-buttons
     env: static
