@@ -19,6 +19,7 @@
 <a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy to Netlify" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg"></a>
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/BinBashBanana/deploy-buttons&branch=main&name=deploy-buttons"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 <a target="_blank" href="https://render.com/deploy?repo=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy to Render" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></a>
+<a target="_blank" href="https://app.cyclic.sh/api/app/deploy/BinBashBanana/deploy-buttons"><img alt="Deploy to Cyclic" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg"></a>
 
 ### Markdown
 
@@ -35,6 +36,7 @@
 [![Deploy to Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/BinBashBanana/deploy-buttons)
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/BinBashBanana/deploy-buttons&branch=main&name=deploy-buttons)
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/BinBashBanana/deploy-buttons)
+[![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/BinBashBanana/deploy-buttons)
 
 ## Official
 
@@ -53,6 +55,7 @@
 <a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy to Netlify" src="https://binbashbanana.github.io/deploy-buttons/buttons/official/netlify.svg"></a>
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/BinBashBanana/deploy-buttons&branch=main&name=deploy-buttons"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/official/koyeb.svg"></a>
 <a target="_blank" href="https://render.com/deploy?repo=https://github.com/BinBashBanana/deploy-buttons"><img alt="Deploy to Render" src="https://binbashbanana.github.io/deploy-buttons/buttons/official/render.svg"></a>
+<a target="_blank" href="https://app.cyclic.sh/api/app/deploy/BinBashBanana/deploy-buttons"><img alt="Deploy to Cyclic" src="https://binbashbanana.github.io/deploy-buttons/buttons/official/cyclic.svg"></a>
 
 ### Markdown
 
@@ -69,6 +72,7 @@
 [![Deploy to Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/official/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/BinBashBanana/deploy-buttons)
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/official/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/BinBashBanana/deploy-buttons&branch=main&name=deploy-buttons)
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/official/render.svg)](https://render.com/deploy?repo=https://github.com/BinBashBanana/deploy-buttons)
+[![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/official/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/BinBashBanana/deploy-buttons)
 
 ## Deploy URL Format
 
@@ -116,15 +120,17 @@ https://vercel.com/new/clone?repository-url=https://github.com/{user}/{repositor
 ```
 https://app.netlify.com/start/deploy?repository=https://github.com/{user}/{repository}
 ```
-
 #### Koyeb
 ```
 https://app.koyeb.com/deploy?type=git&repository=github.com/{user}/{repository}&branch=main&name={repository}
 ```
-
 #### Render
 ```
 https://render.com/deploy?repo=https://github.com/{user}/{repository}
+```
+#### Cyclic
+```
+https://app.cyclic.sh/api/app/deploy/{user}/{repository}
 ```
 
 ## Notes

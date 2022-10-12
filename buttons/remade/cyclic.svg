@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" viewBox="0 0 148 32" width="148px" height="32px">
+	<g fill="#FFFFFF" style="user-select: none;">
+		<rect fill="#2E59C7" x="0" y="0" width="148" height="32" rx="4"></rect>
+		<foreignObject width="148" height="32">
+			<style>span{font: 14px sans-serif; display: inline-block; height: 32px; line-height: 32px; vertical-align: top;}</style>
+			<svg width="24px" height="24px" style="margin: 4px 6px; display: inline-block;" xmlns="http://www.w3.org/2000/svg" viewBox="36 1 64 135"><g fill="#FFFFFF"><path d="M36 57H67.5966L83 67H51.7983L36 57Z"/><path opacity="0.85" d="M39 42H68.5798L83 67H53.7899L39 42Z"/><path opacity="0.75" d="M43 27H69.8908L83 67H56.4454L43 27Z"/><path opacity="0.5" d="M48 13H71.5294L83 67H59.7647L48 13Z"/><path opacity="0.25" d="M53 1H73.1681L83 67H63.084L53 1Z"/><path d="M100 80H68.4034L53 70H84.2017L100 80Z"/><path opacity="0.85" d="M97 95H67.4202L53 70H82.2101L97 95Z"/><path opacity="0.75" d="M93 110H66.1092L53 70H79.5546L93 110Z"/><path opacity="0.5" d="M88 124H64.4706L53 70H76.2353L88 124Z"/><path opacity="0.25" d="M83 136H62.8319L53 70H72.916L83 136Z"/></g>
+			</svg><xhtml:span style="color: #FFFFFF;">Deploy</xhtml:span> <xhtml:span style="color: #D7E7F1;">to Cyclic</xhtml:span>
+		</foreignObject>
+	</g>
+</svg>
